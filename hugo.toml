@@ -1,6 +1,6 @@
 baseURL = 'https://bio-recap.github.io/ScribeMedAI/'
 languageCode = 'en-us'
-title = 'ScribeMed AI'
+title = 'Scribe Med AI'
 theme = 'scribe_theme'
 
 [params]
@@ -26,7 +26,7 @@ theme = 'scribe_theme'
   disableOpenapi = true
   disableRandomIds = false
   disableRootBreadcrumb = true
-  disableSearch = false
+  disableSearch = true
   disableSearchHiddenPages = false
   disableSeoHiddenPages = true
   disableShortcutsTitle = false
