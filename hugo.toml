@@ -1,6 +1,6 @@
 baseURL = 'https://bio-recap.github.io/ScribeMedAI/'
 languageCode = 'en-us'
-title = 'ScribeMedAI'
+title = 'ScribeMed AI'
 theme = 'scribe_theme'
 
 [params]
