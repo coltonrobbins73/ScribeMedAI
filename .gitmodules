@@ -1,0 +1,3 @@
+[submodule "themes/scribe_theme"]
+	path = themes/scribe_theme
+	url = https://github.com/coltonrobbins73/scribe_theme.git
